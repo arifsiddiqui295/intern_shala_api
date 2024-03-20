@@ -1,3 +1,3 @@
 exports.homepage= function (req, res,next) {
-    res.json({message: "homepage"})
+    res.json({message: "homedddddddpage"})
 }
